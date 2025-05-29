@@ -7,7 +7,7 @@
 # Improving the accuracy of AI models by combining Clinical and Radiomics data
 
 ## About The Model
-The concept was tested on predicting the success of wire crossing in patients with Chronic Total Occlusion (CTO). This repository contains the trained XGBoost model as well as a python notebook with the code that was used for training. The included model is the one with the best performance and has been trained on both Radiomics and Clinical data.
+The concept was tested on predicting the success of wire crossing in patients with Chronic Total Occlusion (CTO). This repository contains the trained [XGBoost model](xgb_model_combined.joblib) as well as a [python notebook](Radiomics_Clinical4CTO.ipynb) with the code that was used for training. The included model is the one with the best performance and has been trained on both Radiomics and Clinical data.
 
 ## Disclaimer
 >[!CAUTION] 
@@ -15,4 +15,4 @@ The concept was tested on predicting the success of wire crossing in patients wi
 #### The material in this site is distributed under the [MIT license](https://opensource.org/license/mit)
 
 ## Please cite:
-When using the code, trained model or GUI please cite
+When using the code, trained model or GUI please cite:
