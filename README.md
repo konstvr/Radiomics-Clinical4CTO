@@ -1,6 +1,7 @@
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/b73d18fc-f4b7-4010-8a4f-ae8780866239">
+    <img width="400" src="https://github.com/user-attachments/assets/ae0bf27c-0892-4287-940a-01bfc46acd5e">
 </p>
+
 
 
 # Improving the accuracy of AI models by combining Clinical and Radiomics data
