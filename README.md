@@ -18,4 +18,4 @@ An online demo of our model can be found [here](https://huggingface.co/spaces/Ob
 #### The material in this site is distributed under the [MIT license](https://opensource.org/license/mit)
 
 ## Please cite:
-When using the code, trained model or GUI please cite: Vrettos K., Kasioumi K., Galanakis N., Kehagias E., Kontopodis N., Matthaiou N.,*, Klontzas ME., <i>Radiomics enhance the prediction of endovascular treatment success for femoropopliteal chronic total occlusions: a proof-of-concept study </i>, Under Review, 2025
+When using the code, trained model or demo please cite: Vrettos K., Kasioumi K., Galanakis N., Kehagias E., Kontopodis N., Matthaiou N.,*, Klontzas ME., <i>Radiomics enhance the prediction of endovascular treatment success for femoropopliteal chronic total occlusions: a proof-of-concept study </i>, Under Review, 2025
