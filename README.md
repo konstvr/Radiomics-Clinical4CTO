@@ -9,6 +9,9 @@
 ## About The Model
 The concept was tested on predicting the success of wire crossing in patients with Chronic Total Occlusion (CTO). This repository contains the trained [XGBoost model](xgb_model_combined.joblib) as well as a [python notebook](Radiomics_Clinical4CTO.ipynb) with the code that was used for training. The included model is the one with the best performance and has been trained on both Radiomics and Clinical data.
 
+### Webapp
+An online demo of our model can be found [here](https://huggingface.co/spaces/ObiWan-AI-ground/Radiomics_Clinical4CTO_app)
+
 ## Disclaimer
 >[!CAUTION] 
 >This model has not been tested for clinical use. Use at your own risk
