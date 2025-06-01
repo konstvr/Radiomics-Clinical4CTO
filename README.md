@@ -4,7 +4,7 @@
 
 
 
-# Improving the accuracy of AI models by combining Clinical and Radiomics data
+# Predicting the outcome of endovascular treatment for Chronic Total Occlusions by combining Clinical and Radiomics data
 
 ## About The Model
 The concept was tested on predicting the success of wire crossing in patients with Chronic Total Occlusion (CTO). This repository contains the trained [XGBoost model](xgb_model_combined.joblib) as well as a [python notebook](Radiomics_Clinical4CTO.ipynb) with the code that was used for training. The included model is the one with the best performance and has been trained on both Radiomics and Clinical data.
